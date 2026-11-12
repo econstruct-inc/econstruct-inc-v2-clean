@@ -53,3 +53,13 @@ next-env.d.ts
 .env*.local
 supabase/.temp/
 *.log
+uploads/
+screenshots/
+econstruct-crm/
+.scratch-mobile-check/
+.thumbnail
+recent.txt
+temp_blog_image_gen.ps1
+/*.html
+public/projects/amouage_[2-5].png
+public/Zoom_out_up_drone_shot.mp4
